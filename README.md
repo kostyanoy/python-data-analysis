@@ -1,2 +1,2 @@
-# python-data-analysis
+# Анализ данных на Python
 Лабы для курса "Анализ даных на Python"
